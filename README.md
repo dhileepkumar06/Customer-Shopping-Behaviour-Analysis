@@ -43,5 +43,8 @@ The dashboard supports data-driven decision-making for:
 - Sales Performance Monitoring
 
 ## Dashboard Preview
+
+<img width="1306" height="740" alt="Customer  Analysis" src="https://github.com/user-attachments/assets/7722409d-6d9b-40c4-b820-867624d1b2d3" />
+
 <img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/d7200bad-a2fb-44bc-8dd0-94a796054579" />
 
