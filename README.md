@@ -43,4 +43,5 @@ The dashboard supports data-driven decision-making for:
 - Sales Performance Monitoring
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+<img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/d7200bad-a2fb-44bc-8dd0-94a796054579" />
+
